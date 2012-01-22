@@ -613,7 +613,7 @@ def ssh_authorize(user, key):
 def upstart_ensure(name):
     """Ensures that the given upstart service is running, restarting
     it if necessary"""
-    if sudo("service %s status" % name).find("is running") >= 0:
+    if sudo("service %s status" % name).find("running") >= 0:
         sudo("service %s restart" % name)
     else:
         sudo("service %s start" % name)
