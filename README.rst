@@ -46,3 +46,9 @@ If you want more information, you can:
 
 * Check out Cuisine's API documentation below
 * Read the `presentation on Cuisine <http://ur1.ca/45ku5>`_
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/svetlyak40wt/cuisine/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
